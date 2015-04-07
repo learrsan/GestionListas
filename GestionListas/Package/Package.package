@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package dslVersion="1.0.0.0" 
+        Id="bd1e2a71-855b-4a2e-8c1d-a579b7ad7707" 
+        solutionId="bd1e2a71-855b-4a2e-8c1d-a579b7ad7707" 
+        xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel" 
+        name="GestionListas"
+        sharePointProductVersion="16.0">
+  <features>
+        <featureReference itemId="4ce29f20-3b91-4f73-8eaf-0dba85077dbb" />
+  </features>
+</package>
